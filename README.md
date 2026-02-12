@@ -5,7 +5,7 @@ Practice wireframing by analyzing and redesigning a real-world application used 
 
 ## 🛠 Step 1: Follow the Tutorial
 1. Open [draw.io](https://app.diagrams.net/).
-2. Follow the steps in the attached **`[attachment](ux.pdf)`** to learn how to use device frames, icons, and text boxes.
+2. Follow the steps in the attached [attachment](ux.pdf) to learn how to use device frames, icons, and text boxes.
 3. This is your training to understand how to build professional screens.
 
 ## 🛠 Step 2: The Mandatory Project (Ethiopian App)
